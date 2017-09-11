@@ -1,0 +1,39 @@
+.navigation {
+    padding: 1rem 0;
+    height: 50px;
+    background: #ffffff;
+    color: #f0941d;
+    li {
+        display: inline;
+        a {
+            padding: 1rem;
+        }
+    }
+    .logo {
+        height: 3rem;
+        vertical-align: middle;
+        display: inline;
+    }
+
+    .text {
+        display: none;
+        @media (min-width: 40.0rem) {
+            display: inline;
+        }
+    }
+
+    ul {
+        margin: 0;
+
+        .register {
+            border: 0.1rem solid $color-primary;
+            border-radius: .4rem;
+
+            &:hover {
+                color: #ffffff;
+                background-color: $color-secondary;
+                border-color: $color-secondary;
+            }
+        }
+    }
+}

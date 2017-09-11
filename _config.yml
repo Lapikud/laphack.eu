@@ -1,0 +1,5 @@
+exclude:
+    - "2016"
+timezone: "Europe/Tallinn"
+title: "Laphack 2017"
+description: "Lapikud Hackathon 2017"
