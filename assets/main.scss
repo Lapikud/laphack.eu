@@ -94,6 +94,32 @@ a:active, a:hover {
             }
         }
     }
+
+    .sponsors {
+        margin: 4rem 0;
+        text-align: center;
+        img {
+            display: inline;
+            max-height:100px;
+            width: auto;
+            height: auto;
+        }
+
+        .gold {
+            max-height:400px;
+        }
+
+        @media (min-width: 40.0rem) {
+            .column {
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                align-content: center;
+                text-align: center;
+            }
+        }
+    }
 }
 
 .register {
