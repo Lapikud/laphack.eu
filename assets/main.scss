@@ -78,8 +78,8 @@ a:active, a:hover {
         margin: 0;
 
         .button {
-            color: $color-primary;
-            background-color: transparent;
+            color: #ffffff;
+            background-color: $color-secondary;
             border-color: $color-secondary;
             height: 10rem;
             width: 30rem;
@@ -89,7 +89,7 @@ a:active, a:hover {
             margin: 1rem;
 
             &:focus,&:hover {
-                background-color: $color-secondary;
+                background-color: $color-primary;
                 color: #ffffff;
             }
         }
