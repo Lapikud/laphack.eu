@@ -1,15 +1,23 @@
 <!-- header.scss -->
-<nav class=navigation>
-<section class="container">
+<nav class="navigation">
   <a href="/" {% if page.url == '/' %}style="display: none;"{% endif %}>
     <img class="logo" src="{{ "/assets/logo.svg " | relative_url }}">
     <img class="logo text" src="{{ "/assets/logo_text_full.svg " | relative_url }}">
   </a>
-  <ul class=float-right>
-    <li><a href="#">People</a></li>
-    <li><a href="#">Schedule</a></li>
-    <li><a href="/2016">Previous year</a></li>
-    <li><a href="/register" class="register">Register</a></li>
-  </ul>
-</section>
+
+  <div class="menu">
+    <a href="#" class="float-right" id="main-menu-button">
+      <svg class="logo" height="32" width="32" viewBox="0 0 768 1024" xmlns="http://www.w3.org/2000/svg">
+        <path d="M0 192v128h768v-128h-768z m0 384h768v-128h-768v128z m0 256h768v-128h-768v128z" />
+      </svg>
+    </a>
+
+    <ul id="main-menu">
+      <li><a href="#">People</a></li>
+      <li><a href="#">Schedule</a></li>
+      <li><a href="/2016">Previous year</a></li>
+      <li><a href="/register" class="register-button">Register</a></li>
+    </ul>
+  </div>
+
 </nav>
