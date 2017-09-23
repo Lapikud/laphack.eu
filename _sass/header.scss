@@ -14,13 +14,6 @@
         display: inline;
     }
 
-    .text {
-        display: none;
-        @media (min-width: 40.0rem) {
-            display: inline;
-        }
-    }
-
     .menu {
         display: inline;
 
@@ -52,6 +45,18 @@
 
             &:hover ul {
                 display: inline-block;
+            }
+
+            #main-menu-button svg {
+                fill: #000000
+            }
+
+            #main-menu-button:hover svg {
+                fill: $color-secondary;
+            }
+
+            #main-menu-button:active svg {
+                fill: $color-primary;
             }
         }
     }
