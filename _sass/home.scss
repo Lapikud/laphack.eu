@@ -1,4 +1,21 @@
 .home {
+    .year-theme-text {
+        text-align: center;
+        margin-bottom: 3rem;
+        vertical-align: middle;
+
+        span {
+            font-size: 3rem;
+        }
+
+        @media (min-width: 40.0rem) {
+
+            span {
+                font-size: 5rem;
+            }
+        }
+    }
+
     .logo_container {
         display: flex;
         flex-direction: row;
