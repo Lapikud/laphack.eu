@@ -104,6 +104,24 @@
         h1 {
             text-align: center;
         }
+
+        dt, dd {
+            display: inline;
+            margin:0;
+        }
+        dt {
+            min-width: 10rem;
+            display: inline-block;
+        }
+
+        dt:after {
+            content: ": ";
+        }
+        dd:after {
+            content: " ";
+            display: block;
+            padding: .5rem;
+        }
     }
 
     .sponsors {
