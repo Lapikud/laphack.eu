@@ -1,0 +1,42 @@
+- name: Kertu Nurmberg
+  photo: kertu_nurmberg
+  role: Project manager
+  email: kertu.nurmberg@lapikud.ee
+  phone: 56 492 176
+  messenger: kertu.nurmberg
+
+- name: Sigrid Kirss
+  photo: sigrid_kirss
+  role: Organizer
+  email: sigrid.kirss@lapikud.ee
+  phone: 56 678 452
+  messenger: sigrid.kirss
+
+- name: Liisu Miller
+  photo: liisu_miller
+  role: Organizer
+  email: liisuxd@gmail.com
+  phone: 53 461 986
+  messenger: liisuxd
+
+- name: Mari-Liis Oldja
+  photo: mari-liis_oldja
+  role: Organizer
+  email: mariliis.oldja@gmail.com
+  phone: 53 716 774
+  messenger:
+
+- name: Kertu Pikk
+  photo: kertu_pikk
+  role: Organizer
+  email: kertu.pikk@lapikud.ee
+  phone: 56 804 385
+  messenger: kertu.pikk.5
+
+- name: Terje Russka
+  photo: terje_russka
+  role: Organizer
+  email: terjerusska@gmail.com
+  phone: 53 445 286
+  messenger: terje.russka
+

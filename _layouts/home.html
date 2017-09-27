@@ -164,4 +164,27 @@ layout: default
 
 </div>
 
+<div class="team">
+    <a id="contact"></a>
+    <h1>LAPhack Team</h1>
+    <div class="row">
+    {% for member in site.data.team %}
+        <div class="column member">
+            <a href="{{ "/assets/team/" | append: member.photo | append: "_large.jpg" | relative_url }}">
+                <img height="150" width="150" src="{{ "/assets/team/" | append: member.photo | append: ".jpg" | relative_url }}" alt="{{ member.name }}" class="profile-img">
+            </a>
+            <ul>
+                <li><h4>{{ member.name }}</h4></li>
+                <li>{{ member.role }}</li>
+                <li><a href="mailto:{{ member.email }}">{{ member.email }}</a></li>
+                <li><a href="tel:+372{{ member.phone | remove: " "}}">{{ member.phone }}</a></li>
+                <li><a href="https://m.me/{{ member.messenger }}">Messenger</a></li>
+
+            </ul>
+        </div>
+    {% endfor %}
+    </div>
+
+</div>
+
 </section>
