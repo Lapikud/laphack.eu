@@ -103,9 +103,30 @@ layout: default
             </dl>
         </div>
     </div>
+</div>
 
+
+{% if site.data.mentors %}
+<div class="mentors">
+    <h1><a href="/mentors">Mentors</a></h1>
+    <p></p>
+
+    <div class="row">
+    {% for mentor in site.data.mentors %}
+        <div class="column">
+            <a href="{{ "/mentors/#" | append: mentor.photo | relative_url }}">
+                <img height="auto" width="600" src="{{ "/assets/mentors/" | append: mentor.photo | append: ".jpg" | relative_url }}" alt="{{ mentor.name }}" class="profile-img">
+            </a>
+            <a href="{{ "/mentors/#" | append: mentor.photo | relative_url }}">
+                <h4>{{ mentor.name }}</h4>
+                <p>Read more...</p>
+            </a>
+        </div>
+    {% endfor %}
+    </div>
 
 </div>
+{% endif %}
 
 <!-- sponsors -->
 <div class="sponsors">

@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<section class="container mentors">
+
+  <h1>Mentors</h1>
+  <p>Our mentors are here to guide you and help you and your team in case of problems.</p>
+
+  {% if site.data.mentors %}
+  {% for mentor in site.data.mentors %}
+  <div class="row mentor">
+      <div class="column">
+          <a id="{{ mentor.photo }}" href="{{ "/assets/mentors/" | append: mentor.photo | append: "_large.jpg" | relative_url }}">
+              <img style="max-width: 30rem; float: left; margin-right: 2rem;" src="{{ "/assets/mentors/" | append: mentor.photo | append: "_med.jpg" | relative_url }}" alt="{{ mentor.name }}" class="profile-img">
+          </a>
+          <h2>{{ mentor.name }}</h2>
+          <p>{{ mentor.about_et}}</p>
+          <p>{{ mentor.about_en}}</p>
+      </div>
+  </div>
+  {% endfor %}
+  {% else %}
+    <p>List of mentors will be soon added here..</p>
+  {% endif %}
+
+
+</section>
