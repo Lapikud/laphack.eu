@@ -118,7 +118,7 @@
         }
 
         dt:after {
-            content: ": ";
+            content: " ";
         }
         dd:after {
             content: " ";
@@ -130,6 +130,26 @@
     .mentors {
         h1 {
             text-align: center;
+        }
+
+        .row {
+            justify-content: center;
+            align-content: center;
+            flex-wrap: wrap;
+            flex-direction: row;
+            flex: 0 1 auto;
+        }
+
+        .column {
+            width: 20rem;
+            flex: 0 1 auto;
+            padding: 0 1.0rem;
+        }
+
+        img {
+            object-fit: cover;
+            width: 200px;
+            height: 225px;
         }
     }
 

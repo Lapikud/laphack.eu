@@ -115,11 +115,10 @@ layout: default
     {% for mentor in site.data.mentors %}
         <div class="column">
             <a href="{{ "/mentors/#" | append: mentor.photo | relative_url }}">
-                <img height="auto" width="600" src="{{ "/assets/mentors/" | append: mentor.photo | append: ".jpg" | relative_url }}" alt="{{ mentor.name }}" class="profile-img">
+                <img height="auto" width="600" src="{{ "/assets/mentors/" | append: mentor.photo | append: "_small.jpg" | relative_url }}" alt="{{ mentor.name }}" class="profile-img">
             </a>
             <a href="{{ "/mentors/#" | append: mentor.photo | relative_url }}">
                 <h4>{{ mentor.name }}</h4>
-                <p>Read more...</p>
             </a>
         </div>
     {% endfor %}
