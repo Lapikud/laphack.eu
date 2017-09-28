@@ -15,7 +15,7 @@ If you are okay with bringing your own sleeping gear then it is
 Our mentors are here to guide you and help you and your
 team in case of problems.
 
-[You can read about more about our mentors from here.](/mentors)
+[You can read more about our mentors from here.](/mentors)
 
 ## Traning session materials
 Google drive link will be posted here.
