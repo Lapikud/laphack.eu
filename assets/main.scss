@@ -6,6 +6,7 @@ $color-secondary: #ffa80d;
 body {
     color: #1e1e1e;
     font-family: 'Lato', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+    font-weight: 400;
 }
 
 a, a:link, a:visited {
@@ -13,6 +14,10 @@ a, a:link, a:visited {
 }
 a:active, a:hover {
     color: $color-secondary;
+}
+
+h4 {
+    font-weight: 400;
 }
 
 @import 'header';
