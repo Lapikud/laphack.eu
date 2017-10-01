@@ -38,6 +38,33 @@
     I like everything that is new and interesting. That is why I wish to help You with
     generating ideas and developing those.
 
+- name: Joel Limberg
+  photo: joel_limberg
+  about_et: >
+    Ehitan Stuudiumit — igapäevatöö on Stuudiumi arendamine ja Stuudiumit kasutavate koolidega
+    koostöös uute arenduste planeerimine. Stuudiumi 5+ aastase ajaloo jooksul oleme palju näinud seda,
+    kuidas koolid (ja õpilased) oma elus tarkvara ja teenuseid tegelikult kasutavad.
+    Minult võib küsida front-end & back-end arendusega seotud küsimusi, ja oskan kaasa rääkida
+    (kooli+)tehnoloogia valdkonnas laiemalt.
+  about_en: >
+    Building Stuudium (Stuudium is a suite of online apps for schools) — working on both front-
+    and back-end development, and planning new features and improvements with schools using Stuudium.
+    During Stuudium's 5+ year history we've also learned a lot about how schools (and students)
+    actually use technology/software.
+
+- name: Paavo Viilup
+  photo: paavo_viilup
+  about_et: >
+    Pika ja halli habemega - olen viimased 15+ aastat töötanud haridustehnoloogi
+    ja õpetajana. Ennevanasti olin rohkem tegev koolis (õpetajana ja kooli arendajana),
+    nüüd tegelen põhiliselt Stuudiumi suunamisega ja koolidega suhtlemisega; ent veedan osa ajast
+    ka üldhariduskoolis juhendades.
+  about_en: >
+    An ancient greybeard - I’ve been involved with education for 15+ years now.
+    Used to be heavily invested in teaching and school development, but now I spend most
+    of my time working with Stuudium and talking to schools using Stuudium.
+    I do, however, still spend some of my time instructing as well.
+
 - name: Laura Leon
   photo: laura_leon
   about_et: >
