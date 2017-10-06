@@ -17,8 +17,8 @@ team in case of problems.
 
 [You can read more about our mentors from here.](/mentors)
 
-## Traning session materials
-Google drive link will be posted here.
+## [Traning session materials](https://drive.google.com/open?id=0BzYluPq5cEhUekF6Z1BNMm91bDA)
+Google drive folder is [here](https://drive.google.com/open?id=0BzYluPq5cEhUekF6Z1BNMm91bDA).
 
 ## About LAPhack
 Want to create somehting new and cool?
