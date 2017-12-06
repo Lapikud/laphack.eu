@@ -1,5 +1,7 @@
 exclude:
     - "2016"
+    - "2017"
 timezone: "Europe/Tallinn"
 title: "LAPhack 2017"
 description: "REGISTRATION IS OPEN! Come and get your first hackathon experience"
+baseurl: /2017
