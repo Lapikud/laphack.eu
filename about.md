@@ -2,25 +2,7 @@
 layout: post
 ---
 
-# Resources for participants
-
-## Overnight accommodations
-If you are okay with bringing your own sleeping gear then it is
-  possible to sleep on premise.
-
-5min walk away is [Academic Hostel](https://www.academichostel.com/)
-  that can provide a bed the night.
-
-## Mentors
-Our mentors are here to guide you and help you and your
-team in case of problems.
-
-[You can read more about our mentors from here.](/mentors)
-
-## [Traning session materials](https://drive.google.com/open?id=0BzYluPq5cEhUekF6Z1BNMm91bDA)
-Google drive folder is [here](https://drive.google.com/open?id=0BzYluPq5cEhUekF6Z1BNMm91bDA).
-
-## About LAPhack
+# About LAPhack
 Want to create somehting new and cool?
 Do You have an idea how to make Your life easier, but also help out others, or how to solve a problem everyone is facing?
 
@@ -33,7 +15,7 @@ If You do not have a team, it would not be a problem! You can find team members 
 
 It is time to turn Your ideas into reality!
 
-#### Eesti keeles
+# Mis on LAPhack
 Kas tahad luua midagi uut ja lahedat?
 Kas Sul on idee, kuidas edendada haridust või lihtsustada õppimist?
 
