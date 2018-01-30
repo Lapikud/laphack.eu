@@ -26,4 +26,4 @@ This is a [Jekyll](https://jekyllrb.com/) based webpage
         jekyll build
         rsync -av _site/. root@do.arti.ee:/srv/http/laphack.eu/
 
-A jenkins instance will automaticaly depoly any changes on git push.
+A jenkins instance will automaticaly depoly any changes on git push
