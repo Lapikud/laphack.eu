@@ -21,7 +21,7 @@ This is a [Jekyll](https://jekyllrb.com/) based webpage
         cd laphack.eu
         jekyll serve --host 0.0.0.0
 
-# deploy
+# Deploy
 
         jekyll build
         rsync -av _site/. root@do.arti.ee:/srv/http/laphack.eu/
