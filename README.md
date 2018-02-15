@@ -6,11 +6,11 @@ This is a [Jekyll](https://jekyllrb.com/) based webpage
 
 1. Install Ruby
 
-        sudo apt install ruby
+        sudo apt install build-essential ruby ruby-dev dh-autoreconf
 
 2. Install Jekyll
 
-        gem install jekyll
+        sudo gem install jekyll
 
 3. Clone repo
 
