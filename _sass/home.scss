@@ -89,7 +89,8 @@
         align-items: center;
         align-content: flex-start;
         text-align: center;
-        margin: 0;
+        margin: 15px 0;
+
 
         .button {
             color: #ffffff;
@@ -238,6 +239,13 @@
                 margin-right: 1rem;
                 width: 150px;
                 height: 150px;
+            }
+
+            .lap-img {
+                display: block;
+                margin-right: 1rem;
+                width: 200px;
+                height: 100px;
             }
             ul {
                 display: inline-block;

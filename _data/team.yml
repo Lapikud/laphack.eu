@@ -1,6 +1,83 @@
-#- name:
-#  photo:
-#  role:
-#  email:
-#  phone:
-#  messenger:
+- name: Sigrid Kirss
+  photo: sigrid_kirss
+  role: Project manager
+  email: sigrid.kirss@lapikud.ee
+  phone: 56 678 452
+  messenger: sigrid.kirss
+
+- name: Kertu Nurmberg
+  photo: kertu_nurmberg
+  role: Organizer
+  email: kertu.nurmberg@lapikud.ee
+  phone: 56 492 176
+  messenger: kertu.nurmberg
+  
+- name: Kertu Pikk
+  photo: kertu_pikk
+  role: Organizer
+  email: kertu.pikk@lapikud.ee
+  phone: 56 804 385
+  messenger: kertu.pikk.5
+
+- name: Terje Russka
+  photo: terje_russka
+  role: Organizer
+  email: terjerusska@gmail.com
+  phone: 53 445 286
+  messenger: terje.russka
+
+- name: Liisu Miller
+  photo: liisu_miller
+  role: Organizer
+  email: liisuxd@gmail.com
+  phone: 53 461 986
+  messenger: liisuxd
+
+- name: Elisa Tamm
+  photo: elisa_tamm
+  role: Organizer
+  email: TODO
+  phone: TODO
+  messenger: TODO
+
+- name: Martin Oblikas
+  photo: martin_oblikas
+  role: Organizer
+  email: TODO
+  phone: TODO 
+  messenger: TODO
+
+- name: Risto Leesmäe
+  photo: risto_leesmae
+  role: Organizer
+  email: TODO
+  phone: TODO 
+  messenger: TODO
+  
+- name: Roosi-Ann Tolgu
+  photo: roosi_ann
+  role: Organizer
+  email: TODO
+  phone: TODO 
+  messenger: TODO
+  
+- name: Siret Sillar
+  photo: siret_sillar
+  role: Organizer
+  email: TODO
+  phone: TODO 
+  messenger: TODO
+  
+- name: Peter-Sten Annus
+  photo: peter_sten
+  role: Organizer
+  email: TODO
+  phone: TODO
+  messenger: vihhu
+  
+- name: Kenro Üts
+  photo: kenro_uts
+  role: Organizer
+  email: TODO
+  phone: TODO 
+  messenger: kenro.uts

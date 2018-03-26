@@ -20,11 +20,6 @@ layout: default
 
     <h1 class="year-theme-text"><span>Theme for this year:</span> <wbr><strong>Environment</strong></h1>
 
-    <br><br>
-	<h1 class="year-theme-text">Registration will start by the end of March!</h1>
-    <h1 class="year-theme-text">More info coming soon</h1>
-    <br><br>
-
 <!-- three icons -->
 <div class="row row-center lg-icon-container">
     <div class="column">
@@ -59,7 +54,7 @@ layout: default
 <!-- buttons -->
 <div class="button-container">
 	<a class="button" href="https://www.facebook.com/events/1924219177892276/">Facebook</a>
-    <a class="button" href="/2017">Previous year</a>
+    <a class="button" href="/register">Register</a>
 </div>
 
 <div class="video-container">
@@ -84,45 +79,6 @@ layout: default
     {% endfor %}
     </div>
 
-</div>
-{% endif %}
-
-<div class="team">
-    <a id="contact"></a>
-    <h1>Contact</h1>
-
-    <div class="row">
-        <div class="column member">
-            <ul>
-                <li><h4>MTÜ Lapikud</h4></li>
-                <li><a href="mailto:lapikud@lapikud.ee">lapikud@lapikud.ee</a></li>
-                <li><a href="https://m.me/lapikud">Facebook Messenger</a></li>
-            </ul>
-        </div>
-    </div>
-</div>
-
-{% if site.data.team %}
-<div class="team">
-    <a id="contact"></a>
-    <h1>LAPhack Team</h1>
-    <div class="row">
-    {% for member in site.data.team %}
-        <div class="column member">
-            <a href="{{ "/assets/team/" | append: member.photo | append: "_large.jpg" | relative_url }}">
-                <img height="150" width="150" src="{{ "/assets/team/" | append: member.photo | append: ".jpg" | relative_url }}" alt="{{ member.name }}" class="profile-img">
-            </a>
-            <ul>
-                <li><h4>{{ member.name }}</h4></li>
-                <li>{{ member.role }}</li>
-                <li><a href="mailto:{{ member.email }}">{{ member.email }}</a></li>
-                <li><a href="tel:+372{{ member.phone | remove: " "}}">{{ member.phone }}</a></li>
-                <li><a href="https://m.me/{{ member.messenger }}">Messenger</a></li>
-
-            </ul>
-        </div>
-    {% endfor %}
-    </div>
 </div>
 {% endif %}
 
