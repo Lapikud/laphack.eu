@@ -11,7 +11,7 @@
   email: kertu.nurmberg@lapikud.ee
   phone: 56 492 176
   messenger: kertu.nurmberg
-  
+
 - name: Kertu Pikk
   photo: kertu_pikk
   role: Organizer
@@ -36,48 +36,29 @@
 - name: Elisa Tamm
   photo: elisa_tamm
   role: Organizer
-  email: TODO
-  phone: TODO
-  messenger: TODO
 
 - name: Martin Oblikas
   photo: martin_oblikas
   role: Organizer
-  email: TODO
-  phone: TODO 
-  messenger: TODO
 
 - name: Risto Leesmäe
   photo: risto_leesmae
   role: Organizer
-  email: TODO
-  phone: TODO 
-  messenger: TODO
-  
+
 - name: Roosi-Ann Tolgu
-  photo: roosi_ann
+  photo: roosi_ann_tolgu
   role: Organizer
-  email: TODO
-  phone: TODO 
-  messenger: TODO
-  
+
 - name: Siret Sillar
   photo: siret_sillar
   role: Organizer
-  email: TODO
-  phone: TODO 
-  messenger: TODO
-  
+
 - name: Peter-Sten Annus
   photo: peter_sten
   role: Organizer
-  email: TODO
-  phone: TODO
   messenger: vihhu
-  
-- name: Kenro Üts
-  photo: kenro_uts
+
+- name: Kenro Endel Üts
+  photo: kenro_endel_uts
   role: Organizer
-  email: TODO
-  phone: TODO 
   messenger: kenro.uts
