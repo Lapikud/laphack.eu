@@ -16,7 +16,7 @@ This is a [Jekyll](https://jekyllrb.com/) based webpage
 
         git clone https://github.com/Lapikud/laphack.eu.git
 
-4. Serve the page
+4. Serve the page (Use bash if on Windows)
 
         cd laphack.eu
         jekyll serve --host 0.0.0.0
