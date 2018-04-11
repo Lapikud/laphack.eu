@@ -15,6 +15,7 @@ layout: default
               <img src="{{ "/assets/mentors/" | append: mentor.photo | append: "_med.jpg" | relative_url }}" alt="{{ mentor.name }}" class="profile-img">
           </a>
           <h2>{{ mentor.name }}</h2>
+          <h3>{{ mentor.type }}</h3>
           <p>{{ mentor.about_et}}</p>
           <p>{{ mentor.about_en}}</p>
       </div>
@@ -23,6 +24,5 @@ layout: default
   {% else %}
     <p>List of mentors will be soon added here..</p>
   {% endif %}
-
 
 </section>

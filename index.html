@@ -55,32 +55,12 @@ layout: default
 <div class="button-container">
 	<a class="button" href="https://www.facebook.com/events/1924219177892276/">Facebook</a>
     <a class="button" href="https://www.eventbrite.com/e/laphack-2018-tickets-44666959077">Register</a>
+    <a class="button" href="/schedule">Schedule</a>
 </div>
 
 <div class="video-container">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/vfYKIDqC5oM?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </div>
-
-{% if site.data.mentors %}
-<div class="mentors">
-    <h1><a href="/mentors">Mentors</a></h1>
-    <p></p>
-
-    <div class="row">
-    {% for mentor in site.data.mentors %}
-        <div class="column">
-            <a href="{{ "/mentors#" | append: mentor.photo | relative_url }}">
-                <img height="auto" width="600" src="{{ "/assets/mentors/" | append: mentor.photo | append: "_small.jpg" | relative_url }}" alt="{{ mentor.name }}" class="profile-img">
-            </a>
-            <a href="{{ "/mentors#" | append: mentor.photo | relative_url }}">
-                <h4>{{ mentor.name }}</h4>
-            </a>
-        </div>
-    {% endfor %}
-    </div>
-
-</div>
-{% endif %}
 
 <!-- sponsors -->
 <div class="sponsors">
