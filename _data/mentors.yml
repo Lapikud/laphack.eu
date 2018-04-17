@@ -4,6 +4,27 @@
 #  about_et:
 #  about_en:
 
+- name: Anton Anikin
+  photo: anton_anikin
+  type: Koolitaja
+  about_et: >
+    Mina olen Anton.  IT alas olen kuskil 15 aastat ja selle aja jooksul osalenud paljudes suurtes IT projektides.
+    Enamus projekte on seotus finantstarkvara arendusega ning erinevate süsteemide integratsioonidega.
+    Hetkel töötan Icefire OÜ-s arhitektina. Minu pädevusse kuulub arendusprotsesside täiustamine,
+    arendajate ja ärianalüütikute abistamine ning klientide nõustamine.
+  about_en:
+
+- name: Raul Aassalu
+  photo: raul_aassalu
+  type: Turunduse mentor
+  about_et: >
+    Töötan hetkel Icefire OÜs tarkvara arendajana. Varasemalt olen juhtinud oma ettevõtet väikese arendustiimiga
+    ning pakkunud oma klientidele digitaalseid teenuseid alustades bänner reklaamide tegemisest kuni
+    mõjutajate(infulencers) turunduseni välja.
+
+    Saan kõige enam abiks olla äriplaani testimise ning turunduse strateegia välja töötamisel, keskendumisega digitaalmeediumitel.
+  about_en:
+
 - name: Reimo Ärm
   photo: reimo_arm
   type: Turunduse mentor ja koolitaja
