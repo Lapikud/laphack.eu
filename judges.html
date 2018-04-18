@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<section class="container mentors-page-container">
+
+    <h1>Judges</h1>
+    <h2>This year's wonderful judges are:</h2>
+
+    {% if site.data.judges %}
+    {% for judge in site.data.judges %}
+    <div class="row mentor">
+        <div class="column">
+            <a id="{{ judge.photo }}" href="{{ "/assets/judges/" | append: judge.photo | append: ".jpg" | relative_url }}">
+            <img src="{{ "/assets/judges/" | append: judge.photo | append: "_med.jpg" | relative_url }}" alt="{{ judge.name }}" class="profile-img">
+            </a>
+            <h2>{{ judge.name }}</h2>
+            <h3>{{ judge.type }}</h3>
+        </div>
+    </div>
+    {% endfor %}
+    {% else %}
+    <p>List of judges will be soon added here..</p>
+    {% endif %}
+
+</section>

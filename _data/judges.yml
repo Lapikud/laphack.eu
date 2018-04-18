@@ -1,0 +1,32 @@
+#- name:
+#  photo:
+#  type:
+
+
+- name: Aive Uus
+  photo: aive_uus
+  type: Concise
+
+- name: Ragmar Saksing
+  photo: ragmar_saksing
+  type: Tehnopol
+
+- name: Mari-Liis Oldja
+  photo: mari_liis_oldja
+  type: Playtech
+
+- name: Jan Lakspere
+  photo: jan_lakspere
+  type: IceFire
+
+- name: Mariliis Leitud
+  photo: mariliis_leitud
+  type: Ericsson
+
+- name: Urmas eero
+  photo: urmas_eero
+  type: Aiotex
+
+- name: Tõnis Lind
+  photo: tonis_lind
+  type: Arvutitark
