@@ -48,8 +48,17 @@
 
 - name: Mariliis Leitud
   photo: mariliis_leitud
-  type: Ericsson
-  about:
+  type: Keskkonnaspetsialist Ericssoni Eesti AS
+  about: >
+    Olen omandanud Tallinna Ülikoolis bakalaureuse kraadi keskkonnakorralduse erialal ning hetkel olen
+
+    lõpusirgel magistriõpingutes Tallinna Tehnikaülikoolis logistika erialal. Olen alati olnud tugev loodust puudutavates
+
+    valdkondadest kuid mind on alati tõmmanud teemad, mis on seotud tarneahela ja tootmisega. Tänaseks olen ühendanud
+
+    need kaks valdkonda nii oma hariduses kui ka igavpäevatöös. Leian, et aina enam globaliseeruvas tarbimisühiskonnas on ainuke võimalus
+
+    säästa nii keskkonda kui arendada uusi tehnoloogiaid neid kahte ühendades mitte vastandades.
 
 - name: Urmas Eero
   photo: urmas_eero
