@@ -6,12 +6,25 @@
 - name: Aive Uus
   photo: aive_uus
   type: Concise Systems
-  about:
+  about: >
+    Olen töötanud tarkvaraarenduses üle kümne aasta erinevates rollides, näiteks analüütik, testija, projektijuht,
+    agile coach, team leader. Samuti olen olnud nii teostaja kui ka tellija rollis ning seotud
+    projektidega nii riigile kui ka erasektorile. Praegu töötan ettevõttes Concise Systems.
+    Aeg-ajalt meeldib panna end proovile erinevate sertifikaatide ja koolitustega.
+    Innustun muutuvast maailmast, agiilsusest, entusiastlikest inimestest ning meeskonnatööst.
+    Usun, et töö võib olla ühtlasi ka hobi!
 
 - name: Ragmar Saksing
   photo: ragmar_saksing
   type: Tehnopol
-  about:
+  about: >
+    Ragmar on hariduselt merebioloog, aga üle 18 aasta on ta edukat karjääri teinud hoopis infotehnoloogia valdkonnas.
+    Ta on ettevõtjana käivitanud mitmeid tehnoloogiaga seotud ettevõtteid.
+    On ettevõtete Fututec ja Shipitwise asutaja, juhtinud nende arendusi ja ka müüki.
+    On töötanud tarkvaraarendusettevõttes Proekspert Telekom valdkonna juhina,
+    hiljem oli tema visiitkaardil kirjas klientide sõber. Täna juhib ta Tallinna Teaduspargis Tehnopol
+    rohetehnoloogia valdkonda, kus aitab ettevõtetel muuta meie planeeti paremaks kohaks.
+    Ta on eestvedamise ja reisimise fänn, alpinist ja isa.
 
 - name: Mari-Liis Oldja
   photo: mari_liis_oldja
@@ -41,7 +54,15 @@
 - name: Urmas Eero
   photo: urmas_eero
   type: Aiotex
-  about:
+  about: >
+    Olen Sammy, vahest kutsutakse ka Urmas Eero’ks.
+    Tänased töökohad on:
+    Aiotex  - CEO ja Founder ( tegeleme riist ja tarkvara arendusega ning klientidele erilahenduste pakkumisega)
+    Telia - IoT Arhitekt ( põhiliselt tegelen targa linna arhitektuuri ja IoT lahenduste välja töötamisega,
+    n.t. tööstuste digitaliseerimine ).
+    Enne Aiotex’i loomist töötasin pikka aega Skype’s ( ~11a ), Eesti Energias ja TV3’s ..
+    Teemad milles suudan kõige paremini teamidele tuge pakkuda:  süsteemide ja teenuste arhitektuur,
+    seadmete ja süsteemide integratsioon, riistvara disain, tehnoloogiate valik …
 
 - name: Tõnis Lind
   photo: tonis_lind
