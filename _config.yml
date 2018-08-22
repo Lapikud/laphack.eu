@@ -1,8 +1,9 @@
 exclude:
     - "2016"
     - "2017"
+    - "2018"
     - ".idea"
 timezone: "Europe/Tallinn"
 title: "LAPhack 2018"
-description: "Either it is a big or a small idea, Lapikud Hackathon is the place where You can meet magnificent people, who will give Your idea a shape, content and appearance.
-"
+description: "Either it is a big or a small idea, Lapikud Hackathon is the place where You can meet magnificent people, who will give Your idea a shape, content and appearance."
+baseurl: /2018
