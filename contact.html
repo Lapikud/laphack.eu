@@ -9,7 +9,7 @@ layout: default
 
         <div class="row">
             <div class="column member">
-                <img height="100" width="200" src="/assets/lap_logo.svg" class="lap-img">
+                <img height="100" width="200" src="/2018/assets/lap_logo.svg" class="lap-img">
                 <ul>
                     <li><h4>MTÜ Lapikud</h4></li>
                     <li><a href="mailto:lapikud@lapikud.ee">lapikud@lapikud.ee</a></li>
@@ -33,15 +33,15 @@ layout: default
                 <ul>
                     <li><h4>{{ member.name }}</h4></li>
                     <li>{{ member.role }}</li>
-                    
+
                     {% if member.email %}
                         <li><a href="mailto:{{ member.email }}">{{ member.email }}</a></li>
                     {% endif %}
-                    
+
                     {% if member.phone %}
                         <li><a href="tel:+372{{ member.phone | remove: " "}}">{{ member.phone }}</a></li>
                     {% endif %}
-                    
+
                     {% if member.messenger %}
                         <li><a href="https://m.me/{{ member.messenger }}">Messenger</a></li>
                     {% endif %}
