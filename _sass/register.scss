@@ -3,3 +3,26 @@
     min-height: 300px;
     text-align: center;
 }
+.register .button-container {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: flex-start;
+  text-align: center;
+  margin: 15px 0; }
+  .register .button-container .button {
+    color: #ffffff;
+    background-color: #ffa80d;
+    border-color: #ffa80d;
+    height: 10rem;
+    min-width: 15rem;
+    max-width: 25rem;
+    width: 100%;
+    line-height: 10rem;
+    font-size: 3rem;
+    font-weight: 300;
+    padding: 0;
+    margin-right: 1rem; }
+    .register .button-container .button:focus, .home .button-container .button:hover {
+      background-color: #f0941d;
+      color: #ffffff; }
