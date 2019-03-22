@@ -5,3 +5,78 @@
 #    kirjeldus
 #  about_en: >
 #    description
+
+- name: Piret Hirv
+  photo: piret_hirv
+  type:
+  about_et:
+  about_en: >
+    Piret Hirv, MA is currently working as a health technology division manager at the Science Park Tehnopol. Tehnopol is partner with various international health technology networks, which allows companies to find a suitable development partners and customers, also developing healthcare services through the implementation of connected health solutions.
+    Until February 2018 Piret has worked as an advisor for E-services and Innovation at the Ministry of Social Affairs in Estonia supporting the digital transformation and innovation of social security area in Estonia, including health, labor and social matters. Ms. Hirv was also developing and implementing successful Estonian EU Presidency eHealth policy program and was acting as a liaison officer for international organizations and networks coordinating cross-border healthcare-service activities.
+    In 2017 she graduated from Tallinn University of Technology specializing on healthcare technology. Ms. Hirv has earlier background in medicine as a nurse, also degree in business management, communications and public relations.
+    Piret has experience in implementation of digital solutions in the health and care sector and developing a business model for health tech initiatives.
+
+- name: Astrid Maldre
+  photo: astrid_maldre
+  type:
+  about_et:
+  about_en: >
+    Astrid Maldre is working at Elisa as a Start-up Team Lead. She has an MBA from TalTech and extensive experience in retail.
+    Her goal is to offer products and services that clients will need tomorrow, not yesterday.
+    Her areas of expertise include idea validation, launching and marketing.
+
+- name: Robert Kullamaa
+  photo: robert_kullamaa
+  type:
+  about_et:
+  about_en: >
+    On daily basis I work at Elisa as a lead software developer.
+    I have 7 years of software development history and have participated in several hackatons as a mentor.
+    I can help with backend and frontend software development problems and IT infrastructure.
+
+- name: Anneli Luts
+  photo: anneli_luts
+  type:
+  about_et:
+  about_en: >
+    Anneli has an education and extensive working experience in logistics and supply chain management.
+    She also holds a degree in mechanical engineering with a focus on 3D printing of metals - this area of research has many applications in the medical industry.
+    For the last 3 years, she has been active in the field of information technology,
+    working with the award-winning Swedish medtech company Brighter (Red Dot Award 2018 Winner,
+    Serendipity Challenge 2018 finalist, Swecare Rising Star Award nominee, Swedish Design Awards 2018 nominee etc), among others.
+    Anneli currently works at the product and software development agency Concise on projects related to data analytics and machine learning.
+    Anneli has attended many hackathons, both as a participant and an organizer.
+    As a mentor, she can help with defining the focus and the scope of the project, teamwork, pitching, data analytics.
+    Also, she is happy to share the experience gained from working in health-related projects.
+
+- name: Nele Kunder
+  photo: nele_kunder
+  type:
+  about_et:
+  about_en: >
+    I have studied health promotion and public health.
+    I am working in Tallinn Health Care College as a lecturer and as the head of health promotion curriculum,
+    also I am a board member in Health Promotion Union of Estonia.
+    As a health promotion practitioner I am a planner, coordinator, designer and implementer of evidence-based interventions etc,
+    someone who supports development and empowerment of communities and advocates for health.
+    I am particularly interested in health topics like health policy, epidemiology and health promotion planning oriented on behaviour change.
+    Healthy choices should be the easiest!
+
+- name: Kertu Kriisk
+  photo: kertu_kriisk
+  type:
+  about_et:
+  about_en: >
+    8 years of fast-paced, ever-changing and highly competitive telco sector hustler experience, topped off with lean&mean innovation management.
+    Kertu leads the new services department and idea validation processes at Elisa and advises startups in
+    Ajujaht, Startup Day, Startup Week, you-name-it-startup-thing.
+
+- name: Timmu Tollimägi
+  photo: timmu_tollimagi
+  type:
+  about_et:
+  about_en: >
+    I work as a Mechatronics Expert in Energex Energy Experts.
+    In addition I teach robotics and develop two startups: Aude Opus and Unsinkable Robotics.
+    Both startups are hardware based and they have led me to tens of startup pitching competitions.
+    At this hackaton I can help with hardware and pitching related questions.
