@@ -25,6 +25,18 @@
     Her goal is to offer products and services that clients will need tomorrow, not yesterday.
     Her areas of expertise include idea validation, launching and marketing.
 
+- name: Merli Üle
+  photo: merli_ule
+  type:
+  about_et:
+  about_en: >
+    Merli and her team are working on bringing new services for business customers to the market.
+    Over the past 8 years Merli has been involved in all stages of a service life cycle – starting from idea generation to service shutdown.
+    She has led bigger and smaller IT and telecommunications project.
+    Her skillset includes a variety of proven methods,
+    from vision design, strategy formation and client needs mapping to business plan organization and successful service launch to market,
+    all in a business-customer oriented setting. Merli is also a mentor in Ajujaht and Startup Wise Guys.
+
 - name: Robert Kullamaa
   photo: robert_kullamaa
   type:
@@ -80,3 +92,14 @@
     In addition I teach robotics and develop two startups: Aude Opus and Unsinkable Robotics.
     Both startups are hardware based and they have led me to tens of startup pitching competitions.
     At this hackaton I can help with hardware and pitching related questions.
+
+- name: Laura Leon
+  photo: laura_leon
+  type:
+  about_et:
+  about_en: >
+    Laura is an Experience Designer & Developer in the product design and development agency Mobi Lab.
+    This means she is a designer and front-end developer for digital products.
+    At LAPhack she can advise you on how to make the most of the limited time you have -
+    how to successfully define business problems, focus your work and market the product.
+    She can also give advice on design, information architecture, testing and teamwork.
