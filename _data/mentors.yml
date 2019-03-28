@@ -8,7 +8,7 @@
 
 - name: Piret Hirv
   photo: piret_hirv
-  type:
+  type: Mentor
   about_et:
   about_en: >
     Piret Hirv, MA is currently working as a health technology division manager at the Science Park Tehnopol. Tehnopol is partner with various international health technology networks, which allows companies to find a suitable development partners and customers, also developing healthcare services through the implementation of connected health solutions.
@@ -18,7 +18,7 @@
 
 - name: Astrid Maldre
   photo: astrid_maldre
-  type:
+  type: Mentor
   about_et:
   about_en: >
     Astrid Maldre is working at Elisa as a Start-up Team Lead. She has an MBA from TalTech and extensive experience in retail.
@@ -27,7 +27,7 @@
 
 - name: Merli Üle
   photo: merli_ule
-  type:
+  type: Mentor
   about_et:
   about_en: >
     Merli and her team are working on bringing new services for business customers to the market.
@@ -39,7 +39,7 @@
 
 - name: Robert Kullamaa
   photo: robert_kullamaa
-  type:
+  type: Mentor
   about_et:
   about_en: >
     On daily basis I work at Elisa as a lead software developer.
@@ -48,7 +48,7 @@
 
 - name: Anneli Luts
   photo: anneli_luts
-  type:
+  type: Mentor
   about_et:
   about_en: >
     Anneli has an education and extensive working experience in logistics and supply chain management.
@@ -63,7 +63,7 @@
 
 - name: Nele Kunder
   photo: nele_kunder
-  type:
+  type: Mentor
   about_et:
   about_en: >
     I have studied health promotion and public health.
@@ -76,7 +76,7 @@
 
 - name: Kertu Kriisk
   photo: kertu_kriisk
-  type:
+  type: Mentor
   about_et:
   about_en: >
     8 years of fast-paced, ever-changing and highly competitive telco sector hustler experience, topped off with lean&mean innovation management.
@@ -85,7 +85,7 @@
 
 - name: Timmu Tollimägi
   photo: timmu_tollimagi
-  type:
+  type: Mentor
   about_et:
   about_en: >
     I work as a Mechatronics Expert in Energex Energy Experts.
@@ -95,7 +95,7 @@
 
 - name: Laura Leon
   photo: laura_leon
-  type:
+  type: Mentor
   about_et:
   about_en: >
     Laura is an Experience Designer & Developer in the product design and development agency Mobi Lab.
@@ -103,3 +103,9 @@
     At LAPhack she can advise you on how to make the most of the limited time you have -
     how to successfully define business problems, focus your work and market the product.
     She can also give advice on design, information architecture, testing and teamwork.
+
+- name: Mari Koldits
+  photo: mari_koldits
+  type: Scouter [Elisa]
+  about_et:
+  about_en:
