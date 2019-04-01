@@ -104,8 +104,24 @@
     how to successfully define business problems, focus your work and market the product.
     She can also give advice on design, information architecture, testing and teamwork.
 
+- name: Karl-Martin Miil
+  photo: karl-martin_mill
+  type: Mentor
+  about_et:
+  about_en: >
+    Best described as a wolf with many talents. I have worked as a programmer, software analyst, dev-ops nerd and lastly as a product engineer.
+    You can ask me anything about software: debugging, deployment, front-end, back-end, you name it.
+    When you see me, ask me how to validate your idea with fewer lines of code and less time.
+
+
 - name: Mari Koldits
   photo: mari_koldits
+  type: Scouter [Elisa]
+  about_et:
+  about_en:
+
+- name: Carelin Tuul
+  photo: carelin_tuul
   type: Scouter [Elisa]
   about_et:
   about_en:
