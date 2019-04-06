@@ -46,6 +46,16 @@
     I have 7 years of software development history and have participated in several hackatons as a mentor.
     I can help with backend and frontend software development problems and IT infrastructure.
 
+- name: Vedran Brnjetic
+  photo: vedran_brnjetic
+  type: Mentor
+  about_et:
+  about_en: >
+    I am the lead web developer and the platform architect in Ultrahack.
+    I have been working with Amazon Web Services for the last 2 years and as a Full Stack Web developer for the past 5 years,
+    3 of which in London for multiple clients.
+    In free time I volunteer and help out other people which I have been doing since the age of 7 as a volunteer firefighter in my small village in Croatia.
+
 - name: Anneli Luts
   photo: anneli_luts
   type: Mentor
