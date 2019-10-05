@@ -3,28 +3,3 @@
 #  type:
 #  about: >
 #    description
-
-- name: Karl-Martin Miil
-  photo: karl-martin_mill
-  type:
-  about:
-
-- name: Erik Tiits
-  photo: erik_tiits
-  type: CGI
-  about:
-
-- name: Liis Lohur
-  photo: liis_lohur
-  type: Tehnopol
-  about:
-
-- name: Kertu Kriisk
-  photo: kertu_kriisk
-  type: Elisa
-  about:
-
-- name: Nele Kunder
-  photo: nele_kunder
-  type: Tallinna Tervishoiu Kõrgkool
-  about:
