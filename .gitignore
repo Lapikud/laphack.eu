@@ -2,5 +2,4 @@ _site/
 .sass-cache/
 .jekyll-metadata
 .idea/
-2016/
-2017/
+.jekyll-cache/
