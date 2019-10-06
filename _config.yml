@@ -1,0 +1,5 @@
+exclude:
+    - ".idea"
+timezone: "Europe/Tallinn"
+title: "LAPhack Archive"
+description: "Explore our older LAPhack event pages"
